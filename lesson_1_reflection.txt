@@ -9,7 +9,8 @@ efficient programmer in the long term?
     It helps debug more easily and keep all the working files.
 
 What do you think are the pros and cons of manually choosing when to create a
-commit, like you do in Git, vs having versions automatically saved, like Google
+commit, like you do in Git, vs having versions automa
+tically saved, like Google
 docs does?
 
     Fill in your answer here
