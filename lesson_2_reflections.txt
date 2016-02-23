@@ -26,3 +26,15 @@ Automatic merging
 Manual merging
 	- Pros: Solve the conflicted content
 	- Cons: Slow and have to read a lot of lines of code
+
+
+
+
+
+	git commands:
+	- git remote add newName url
+	- git status
+	- git add filename
+	- git commit
+	- git commit -a
+	
