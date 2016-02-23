@@ -4,3 +4,8 @@ When I want to store my projects on the cloud and publish them to public.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Pulling changes manually can be avoided local files conflictions.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: Clone between github to github
+Clone: Use to copy from github to local or local to local
+Branch: Use to create a new branch
